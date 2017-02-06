@@ -1,0 +1,3 @@
+[submodule "matplotblocks"]
+	path = matplotblocks
+	url = https://github.com/fenichel/matplotblocks.git
