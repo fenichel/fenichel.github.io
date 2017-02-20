@@ -1,5 +1,11 @@
 Changelog:
 
+Feb 19, 2017
+-- Add legends
+-- Add plot title
+-- Reorganize toolbox
+-- Improve connection checks
+
 Feb 18, 2017
 - Added scatter plot block
 - Generate imports
